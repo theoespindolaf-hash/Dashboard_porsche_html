@@ -1,3 +1,4 @@
+<img width="1342" height="589" alt="Captura de tela 2026-10-18 124937" src="https://github.com/user-attachments/assets/744771a1-d9ce-4f8a-8652-1a89d777cb60" />
 # Dashboard_porsche_html
 1. Quais perguntas de negócio foram escolhidas e por quê?
 Foram selecionadas três perguntas principais para transformar os dados de vendas em informações úteis para a gestão comercial.
